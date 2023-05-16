@@ -1,6 +1,6 @@
 **University of Science - VNUHCM**
 
-**Class: Introduction to Data Science - 21KDL1**
+**COURSE: Introduction to Data Science - 21KDL1**
 # Lab 4: Stock (VN30INDEX) 
 
 **About Us:**
